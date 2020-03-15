@@ -9,7 +9,7 @@ A collection of awesome things regarding the XState library.
   - [XState Concepts](#xstate-concepts)
   - [XState Projects](#xstate-projects)
   - [XState Tutorials](#xstate-tutorials)
-  - XState Usage & Examples
+  - [XState Usage & Examples](xstate-usage--examples)
   - [XState Talks](#xstate-talks)
 
 ### XState
