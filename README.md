@@ -7,8 +7,9 @@ A collection of awesome things regarding the XState library.
 - [XState](#xstate)
   - [XState General Resources](#xstate-general-resources)
   - [XState Concepts](#xstate-concepts)
-  - [XState Online Playgrounds](#xstate-online-playgrounds)
+  - [XState Projects](#xstate-projects)
   - [XState Tutorials](#xstate-tutorials)
+  - [XState Usage & Examples](xstate-usage--examples)
   - [XState Talks](#xstate-talks)
 
 ### XState
@@ -37,10 +38,12 @@ A collection of awesome things regarding the XState library.
 
 - [24 days to learn statecharts #devadvent](https://dev.to/codingdive/introducing-state-machine-advent-24-bite-sized-blog-posts-about-state-machines-and-statecharts-2ce0) - series of 25 blog posts, Statecharts, Typescript
 
+### XState Usage & Examples
+- [Examples modelling application state with statecharts](https://github.com/coodoo/xstate-examples)
+
 ### XState Talks
 
 - [David Khourshid - Reactive State Machines and Statecharts | Uphill Conf 2019](https://www.youtube.com/watch?v=GSHQFx7PG20) - Youtube, duration 21:25
 - [David Khourshid - Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/watch?v=RqTxtOXcv8Y) - Youtube, duration 34:27
 - [David Khourshid - Reactive State Machines and Statecharts  - ReactiveConf 2018](https://www.youtube.com/watch?v=DrHccvns-L0) - Youtube, duration 28:50
 
-### 
