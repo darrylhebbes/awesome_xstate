@@ -7,7 +7,7 @@ A collection of awesome things regarding the XState library.
 - [XState](#xstate)
   - [XState General Resources](#xstate-general-resources)
   - [XState Concepts](#xstate-concepts)
-  - [XState Online Playgrounds](#xstate-online-playgrounds)
+  - [XState Projects](#xstate-projects)
   - [XState Tutorials](#xstate-tutorials)
   - [XState Talks](#xstate-talks)
 
