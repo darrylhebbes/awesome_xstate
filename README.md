@@ -47,4 +47,5 @@ A collection of awesome things regarding the XState library.
 - [David Khourshid - Reactive State Machines and Statecharts | Uphill Conf 2019](https://www.youtube.com/watch?v=GSHQFx7PG20) - Youtube, duration 21:25
 - [David Khourshid - Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/watch?v=RqTxtOXcv8Y) - Youtube, duration 34:27
 - [David Khourshid - Reactive State Machines and Statecharts  - ReactiveConf 2018](https://www.youtube.com/watch?v=DrHccvns-L0) Youtube, duration 28:50
-- [XState - An introduction - Finite State Machines in React - Leigh Hailliday](https://www.youtube.com/watch?v=iDZxjJYMOUQ) Youtube, duration 8:00
+- [XState - An introduction - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=iDZxjJYMOUQ) Youtube, duration 8:00
+- [XState - Data Loading Service - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=XaHk9vhmus4) Youtube, duration 18:54
