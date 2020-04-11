@@ -34,9 +34,10 @@ A collection of awesome things regarding the XState library.
 #### Vue
 - [Glutnix/xstate-vue-calculator](https://github.com/Glutnix/xstate-vue-calculator) - Calculator
 
-### XState Tutorials
+### XState Tutorials and Guides
 
 - [24 days to learn statecharts #devadvent](https://dev.to/codingdive/introducing-state-machine-advent-24-bite-sized-blog-posts-about-state-machines-and-statecharts-2ce0) - series of 25 blog posts, Statecharts, Typescript
+- [Simple examples of UI components made with XState and React. - Brad Woods](https://bradwoods.io/guides/xstate-react)
 
 ### XState Usage & Examples
 - [Examples modelling application state with statecharts](https://github.com/coodoo/xstate-examples)
