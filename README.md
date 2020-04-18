@@ -72,5 +72,5 @@ A collection of awesome things regarding the XState library and Statecharts.
 - [Statecharts - A Visual Formalism For Complex Systems](https://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf) (PDF) - David Harel, 1984
 - [World of Statecharts](https://statecharts.github.io/) a comprehensive guide by [Erik Mogensen](https://github.com/mogsie) in using statecharts in your applications
 - [Statechart Autocoding for NASA's Curiosity Rover](https://blog.nomagic.com/statechart-autocoding-curiosity-rover/), model based systems engineering
-
+- [A humble repo to collect knowledge on state machines.](https://github.com/achou11/state-machines) - Andrew Chou
 
