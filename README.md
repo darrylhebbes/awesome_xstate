@@ -1,6 +1,7 @@
-**Awesome XState** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
-[![npm version](https://badge.fury.io/js/xstate.svg)](https://badge.fury.io/js/xstate)
+## Awesome XState
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[![npm version](https://badge.fury.io/js/xstate.svg)](https://badge.fury.io/js/xstate)
 
 
 A collection of awesome things regarding the XState library and Statecharts.
@@ -32,7 +33,7 @@ A collection of awesome things regarding the XState library and Statecharts.
 ### XState Concepts
 
 - [Erik Mogensen - Welcome to the world of Statecharts](https://statecharts.github.io/)
-- [Concepts, in official docs](https://github.com/davidkpiano/xstate/blob/master/docs/about/concepts.md) - Article touches on Finite State Machines, Statechart formailsm and the Actor model 
+- [Concepts, in official docs](https://github.com/davidkpiano/xstate/blob/master/docs/about/concepts.md) - Article touches on Finite State Machines, Statechart formailsm and the Actor model
 
 ### XState Projects
 
@@ -41,9 +42,12 @@ A collection of awesome things regarding the XState library and Statecharts.
 - [Glutnix/xstate-vue-calculator](https://github.com/Glutnix/xstate-vue-calculator) - Calculator
 
 ### XState Articles
-
+- [Redux is half of a pattern (1/2)](https://dev.to/davidkpiano/redux-is-half-of-a-pattern-1-2-1hd7) - David Khourshid, 2020
+- [No, disabling a button is not app logic](https://dev.to/davidkpiano/no-disabling-a-button-is-not-app-logic-598i) - David Khourshid, 2019
 - [The (Switch)-Case for State Machines in User Interfaces](https://24ways.org/2018/state-machines-in-user-interfaces/) - David Khourshid, 2018
+- [Robust React User Interfaces with Finite State Machines](https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/) - David Khourshid, 2018
 - [State Machines in React](https://mastery.games/post/state-machines-in-react/) - Dave Geddes
+- [Finite State Machines in Vue](https://www.phillipparker.io/articles/finite-state-machines-in-vue) - Phillip Parker
 
 ### XState Tutorials and Guides
 
@@ -75,3 +79,6 @@ A collection of awesome things regarding the XState library and Statecharts.
 - [Statechart Autocoding for NASA's Curiosity Rover](https://blog.nomagic.com/statechart-autocoding-curiosity-rover/), model based systems engineering
 - [A humble repo to collect knowledge on state machines.](https://github.com/achou11/state-machines) - Andrew Chou
 
+### On State Machines (without XState)
+- [You are managing state? Think twice.](https://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent) - Krasimir Tsonev, 2017
+- [A composable pattern for pure state machines with effects (draft v3) ](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2) - Andy Matuschak, 2016
