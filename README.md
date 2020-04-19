@@ -72,13 +72,13 @@ A collection of awesome things regarding the XState library and Statecharts.
 - [XState PlantUML](https://github.com/mogsie/xstate-plantuml) by [Erik Mogensen](https://github.com/mogsie), given an XState definition (JS Object) of a statechart, this tool will output a plantuml source rendering of the statechart.
 - [XState Chrome Devtool](https://chrome.google.com/webstore/detail/xstate-devtools/aamnodipnlopbknpklfoabalmobheehc) Inspect XState machines running in your app
 
-### On Statecharts
+### Dig deeper into Statecharts
 
 - [Statecharts - A Visual Formalism For Complex Systems](https://www.inf.ed.ac.uk/teaching/courses/seoc/2005_2006/resources/statecharts.pdf) (PDF) - David Harel, 1984
 - [World of Statecharts](https://statecharts.github.io/) a comprehensive guide by [Erik Mogensen](https://github.com/mogsie) in using statecharts in your applications
 - [Statechart Autocoding for NASA's Curiosity Rover](https://blog.nomagic.com/statechart-autocoding-curiosity-rover/), model based systems engineering
 - [A humble repo to collect knowledge on state machines.](https://github.com/achou11/state-machines) - Andrew Chou
 
-### On State Machines (without XState)
+### Dig deeper into State Machine
 - [You are managing state? Think twice.](https://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent) - Krasimir Tsonev, 2017
 - [A composable pattern for pure state machines with effects (draft v3) ](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2) - Andy Matuschak, 2016
