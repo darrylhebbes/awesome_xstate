@@ -8,16 +8,19 @@ A collection of awesome things regarding the XState library and Statecharts.
 
 [https://github.com/davidkpiano/xstate](https://github.com/davidkpiano/xstate)
 
-- [XState](#xstate)
-  - [XState Main Resources](#xstate-main-resources)
-  - [XState Concepts](#xstate-concepts)
-  - [XState Projects](#xstate-projects)
-  - [XState Articles](#xstate-articles)
-  - [XState Tutorials & Guides](#xstate-tutorials-and-guides)
-  - [XState Usage & Examples](xstate-usage--examples)
-  - [XState Talks](#xstate-talks)
-  - [XState Developer Tools](#xstate-developer-tools)
-  - [On Statecharts](#on-statecharts)
+- [Awesome XState](#awesome-xstate)
+  * [XState](#xstate)
+    + [XState Main Resources](#xstate-main-resources)
+  * [XState Concepts](#xstate-concepts)
+  * [XState Projects](#xstate-projects)
+    + [Vue](#vue)
+  * [XState Articles](#xstate-articles)
+  * [XState Tutorials and Guides](#xstate-tutorials-and-guides)
+  * [XState Usage & Examples](#xstate-usage---examples)
+  * [XState Talks](#xstate-talks)
+  * [XState Developer Tools](#xstate-developer-tools)
+  * [Dig deeper into Statecharts](#dig-deeper-into-statecharts)
+  * [Dig deeper into State Machines](#dig-deeper-into-state-machines)
 
 ### XState
 
@@ -79,6 +82,6 @@ A collection of awesome things regarding the XState library and Statecharts.
 - [Statechart Autocoding for NASA's Curiosity Rover](https://blog.nomagic.com/statechart-autocoding-curiosity-rover/), model based systems engineering
 - [A humble repo to collect knowledge on state machines.](https://github.com/achou11/state-machines) - Andrew Chou
 
-### Dig deeper into State Machine
+### Dig deeper into State Machines
 - [You are managing state? Think twice.](https://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent) - Krasimir Tsonev, 2017
 - [A composable pattern for pure state machines with effects (draft v3) ](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2) - Andy Matuschak, 2016
