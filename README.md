@@ -43,6 +43,7 @@ A collection of awesome things regarding the XState library and Statecharts.
 ### XState Articles
 
 - [The (Switch)-Case for State Machines in User Interfaces](https://24ways.org/2018/state-machines-in-user-interfaces/) - David Khourshid, 2018
+- [State Machines in React](https://mastery.games/post/state-machines-in-react/) - Dave Geddes
 
 ### XState Tutorials and Guides
 
