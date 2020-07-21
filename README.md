@@ -53,14 +53,13 @@ A collection of awesome things regarding the XState library and Statecharts.
 - [Robust React User Interfaces with Finite State Machines](https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/) - David Khourshid, 2018
 - [State Machines in React](https://mastery.games/post/state-machines-in-react/) - Dave Geddes
 - [Finite State Machines in Vue](https://www.phillipparker.io/articles/finite-state-machines-in-vue) - Phillip Parker
+- [24 days to learn statecharts #devadvent](https://dev.to/codingdive/introducing-state-machine-advent-24-bite-sized-blog-posts-about-state-machines-and-statecharts-2ce0) - series of 25 blog posts, Statecharts, Typescript
 
 ### Testing
 - [Model-Based Testing in React with State Machines](https://css-tricks.com/model-based-testing-in-react-with-state-machines/) - David Khourshid, 2020
 
-### Tutorials and Guides
-
-- [24 days to learn statecharts #devadvent](https://dev.to/codingdive/introducing-state-machine-advent-24-bite-sized-blog-posts-about-state-machines-and-statecharts-2ce0) - series of 25 blog posts, Statecharts, Typescript
-- [Extensive examples of XState features with and without React. - Brad Woods](https://bradwoods.io/guides/xstate-react)
+### Guides
+- [Extensive examples of XState features with and without React.](https://bradwoods.io/guides/xstate-react) - Brad Woods ( Updated often )
 
 ### Usage & Examples
 
