@@ -10,15 +10,16 @@ A collection of awesome things regarding the XState library and Statecharts.
 
 - [Awesome XState](#awesome-xstate)
   * [XState](#xstate)
-    + [XState Main Resources](#xstate-main-resources)
-  * [XState Concepts](#xstate-concepts)
-  * [XState Projects](#xstate-projects)
+    + [Main Resources](#main-resources)
+  * [Concepts](#concepts)
+  * [Projects](#projects)
     + [Vue](#vue)
-  * [XState Articles](#xstate-articles)
-  * [XState Tutorials and Guides](#xstate-tutorials-and-guides)
-  * [XState Usage & Examples](#xstate-usage---examples)
-  * [XState Talks](#xstate-talks)
-  * [XState Developer Tools](#xstate-developer-tools)
+  * [Articles](#articles)
+  * [Testing](#testing)
+  * [Tutorials and Guides](#tutorials-and-guides)
+  * [Usage & Examples](#usage---examples)
+  * [Talks](#talks)
+  * [Developer Tools](#developer-tools)
   * [Dig deeper into Statecharts](#dig-deeper-into-statecharts)
   * [Dig deeper into State Machines](#dig-deeper-into-state-machines)
 
@@ -45,14 +46,17 @@ A collection of awesome things regarding the XState library and Statecharts.
 - [Glutnix/xstate-vue-calculator](https://github.com/Glutnix/xstate-vue-calculator) - Calculator
 
 ### Articles
+- [State-driven interfaces with XState](https://blog.logrocket.com/state-driven-interfaces-with-xstate/) - Brad Woods, Mar 2020
 - [Redux is half of a pattern (1/2)](https://dev.to/davidkpiano/redux-is-half-of-a-pattern-1-2-1hd7) - David Khourshid, 2020
 - [No, disabling a button is not app logic](https://dev.to/davidkpiano/no-disabling-a-button-is-not-app-logic-598i) - David Khourshid, 2019
 - [The (Switch)-Case for State Machines in User Interfaces](https://24ways.org/2018/state-machines-in-user-interfaces/) - David Khourshid, 2018
 - [Robust React User Interfaces with Finite State Machines](https://css-tricks.com/robust-react-user-interfaces-with-finite-state-machines/) - David Khourshid, 2018
 - [State Machines in React](https://mastery.games/post/state-machines-in-react/) - Dave Geddes
 - [Finite State Machines in Vue](https://www.phillipparker.io/articles/finite-state-machines-in-vue) - Phillip Parker
+
 ### Testing
 - [Model-Based Testing in React with State Machines](https://css-tricks.com/model-based-testing-in-react-with-state-machines/) - David Khourshid, 2020
+
 ### Tutorials and Guides
 
 - [24 days to learn statecharts #devadvent](https://dev.to/codingdive/introducing-state-machine-advent-24-bite-sized-blog-posts-about-state-machines-and-statecharts-2ce0) - series of 25 blog posts, Statecharts, Typescript
