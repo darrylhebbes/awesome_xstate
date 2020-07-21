@@ -2,25 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
-A collection of awesome things regarding the XState library and Statecharts.
+A collection of awesome resources regarding the XState library and Statecharts.
 
 [https://github.com/davidkpiano/xstate](https://github.com/davidkpiano/xstate)
-
-- [Awesome XState](#awesome-xstate)
-  * [XState](#xstate)
-    + [Main Resources](#main-resources)
-  * [Concepts](#concepts)
-  * [Projects](#projects)
-    + [Vue](#vue)
-  * [Articles](#articles)
-  * [Testing](#testing)
-  * [Tutorials and Guides](#tutorials-and-guides)
-  * [Usage & Examples](#usage---examples)
-  * [Talks](#talks)
-  * [Developer Tools](#developer-tools)
-  * [Dig deeper into Statecharts](#dig-deeper-into-statecharts)
-  * [Dig deeper into State Machines](#dig-deeper-into-state-machines)
 
 ### XState
 
