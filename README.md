@@ -57,10 +57,11 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [XState - An introduction - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=iDZxjJYMOUQ) Youtube, duration 8:00
 - [XState - Data Loading Service - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=XaHk9vhmus4) Youtube, duration 18:54
 
-### Developer Tools
+### Tools
 
 - [XState PlantUML](https://github.com/mogsie/xstate-plantuml) by [Erik Mogensen](https://github.com/mogsie), given an XState definition (JS Object) of a statechart, this tool will output a plantuml source rendering of the statechart.
 - [XState Chrome Devtool](https://chrome.google.com/webstore/detail/xstate-devtools/aamnodipnlopbknpklfoabalmobheehc) Inspect XState machines running in your app
+- [Sketch Systems](https://sketch.systems/) - design and understand state, export result to xState machine object
 
 ### Dig deeper into Statecharts
 
