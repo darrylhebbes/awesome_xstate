@@ -70,6 +70,9 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [Statechart Autocoding for NASA's Curiosity Rover](https://blog.nomagic.com/statechart-autocoding-curiosity-rover/), model based systems engineering
 - [A humble repo to collect knowledge on state machines.](https://github.com/achou11/state-machines) - Andrew Chou
 
-### Dig deeper into State Machines
+### Dive deeper into State Machines
 - [You are managing state? Think twice.](https://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent) - Krasimir Tsonev, 2017
 - [A composable pattern for pure state machines with effects (draft v3) ](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2) - Andy Matuschak, 2016
+- [Creating CSS State machines](https://gist.github.com/davidkpiano/e715b59bef817d2146164add26a134b0) - David Khourshid
+- [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/) - Alan Skorkin, 2018
+- [Why developers should be force-fed state machines](https://engineering.shopify.com/blogs/engineering/17488160-why-developers-should-be-force-fed-state-machines) - Willem van Bergen (engineering at shopify) 2011
