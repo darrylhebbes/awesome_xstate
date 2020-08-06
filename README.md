@@ -76,3 +76,4 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [Creating CSS State machines](https://gist.github.com/davidkpiano/e715b59bef817d2146164add26a134b0) - David Khourshid
 - [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/) - Alan Skorkin, 2018
 - [Why developers should be force-fed state machines](https://engineering.shopify.com/blogs/engineering/17488160-why-developers-should-be-force-fed-state-machines) - Willem van Bergen (engineering at shopify) 2011
+- [Extensive research of statecharts with a focus on front-end development. ](https://gist.github.com/coodoo/0a7658a6c6580cb11101a9c22904d425) - Jeremy Lu (StateKit)
