@@ -71,9 +71,11 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [A humble repo to collect knowledge on state machines.](https://github.com/achou11/state-machines) - Andrew Chou
 
 ### Dive deeper into State Machines
+- [How I Learned to Stop Worrying and ❤️ the State Machine](http://raganwald.com/2018/02/23/forde.html) - Reginald Braithwaite, 2018
 - [You are managing state? Think twice.](https://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent) - Krasimir Tsonev, 2017
 - [A composable pattern for pure state machines with effects (draft v3) ](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2) - Andy Matuschak, 2016
 - [Creating CSS State machines](https://gist.github.com/davidkpiano/e715b59bef817d2146164add26a134b0) - David Khourshid
 - [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/) - Alan Skorkin, 2018
 - [Why developers should be force-fed state machines](https://engineering.shopify.com/blogs/engineering/17488160-why-developers-should-be-force-fed-state-machines) - Willem van Bergen (engineering at shopify) 2011
-- [Extensive research of statecharts with a focus on front-end development. ](https://gist.github.com/coodoo/0a7658a6c6580cb11101a9c22904d425) - Jeremy Lu (StateKit)
+- [The case for statechart and xstate -- why it matters and how we can benefit from it](https://gist.github.com/coodoo/0a7658a6c6580cb11101a9c22904d425) - Jeremy Lu (StateKit)
+- [A composable pattern for pure state machines with effects - draft 3](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2) - Andy Matuschak
