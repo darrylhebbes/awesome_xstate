@@ -62,6 +62,7 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [XState PlantUML](https://github.com/mogsie/xstate-plantuml) by [Erik Mogensen](https://github.com/mogsie), given an XState definition (JS Object) of a statechart, this tool will output a plantuml source rendering of the statechart.
 - [XState Chrome Devtool](https://chrome.google.com/webstore/detail/xstate-devtools/aamnodipnlopbknpklfoabalmobheehc) Inspect XState machines running in your app
 - [Sketch Systems](https://sketch.systems/) - design and understand state, export result to xState machine object
+- [XState Codegen](https://github.com/mattpocock/xstate-codegen) - generate 100% typesafe Typescript code with a CLI
 
 ### Dig deeper into Statecharts
 
