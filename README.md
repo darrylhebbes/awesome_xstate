@@ -47,6 +47,7 @@ A collection of awesome resources regarding the XState library and Statecharts.
 ### Usage & Examples
 
 - [Examples modelling application state with statecharts](https://github.com/coodoo/xstate-examples)
+- [XState Catalog - A collection of professionally designed state machines](https://xstate-catalogue.com/)
 
 ### Talks
 
