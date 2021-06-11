@@ -80,4 +80,3 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [Why Developers Never Use State Machines](https://skorks.com/2011/09/why-developers-never-use-state-machines/) - Alan Skorkin, 2018
 - [Why developers should be force-fed state machines](https://engineering.shopify.com/blogs/engineering/17488160-why-developers-should-be-force-fed-state-machines) - Willem van Bergen (engineering at shopify) 2011
 - [The case for statechart and xstate -- why it matters and how we can benefit from it](https://gist.github.com/coodoo/0a7658a6c6580cb11101a9c22904d425) - Jeremy Lu (StateKit)
-- [A composable pattern for pure state machines with effects - draft 3](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2) - Andy Matuschak
