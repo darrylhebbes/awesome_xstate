@@ -14,6 +14,7 @@ A collection of awesome resources regarding the XState library and Statecharts.
 
 - [XState Official Website](https://xstate.js.org)
 - [XState Documentation](https://xstate.js.org/docs)
+- [XState Resources](https://xstate.js.org/docs/about/resources.html)
 - [XState on GitHub](https://github.com/davidkpiano/xstate)
 - [XState Community / Forum](https://spectrum.chat/statecharts)
 
