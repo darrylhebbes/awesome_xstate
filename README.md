@@ -4,7 +4,7 @@
 
 A collection of awesome resources regarding the XState library and Statecharts.
 
-[https://github.com/davidkpiano/xstate](https://github.com/davidkpiano/xstate)
+[Official Code Repository](https://github.com/statelyai/xstate)
 
 ### XState
 
