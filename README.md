@@ -32,7 +32,7 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [Glutnix/xstate-vue-calculator](https://github.com/Glutnix/xstate-vue-calculator) - Calculator
 
 ### Articles
-
+- [▶️ Front-end state management with Xstate - Amy Pellegrini | XConf Europe 2021](https://www.youtube.com/watch?v=Slb6M_rIn0M) 
 - [XState - a TypeScript state machine with a lot of features](http://realfiction.net/2019/01/30/xstate-a-typescript-state-machine-with-a-lot-of-features) by Frank Quednau
 - [Creating a Complex IVR System with Ease with XState](https://www.nexmo.com/blog/2019/06/20/creating-a-complex-ivr-system-with-ease-with-xstate-dr) by Yonatan Mevorach
 - [My love letter to XState and statecharts ♥](https://dev.to/timdeschryver/my-love-letter-to-xstate-and-statecharts-287b) by Tim Deschryver
