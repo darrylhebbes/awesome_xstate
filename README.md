@@ -19,6 +19,7 @@ A collection of awesome resources regarding the XState library and Statecharts.
 
 ### Concepts
 
+- [Stackoverflow: What is an actual difference between redux and a state machine (e.g. xstate)?](https://stackoverflow.com/a/54521035)
 - [Erik Mogensen - Welcome to the world of Statecharts](https://statecharts.github.io/)
 - [Concepts, in official docs](https://github.com/davidkpiano/xstate/blob/master/docs/about/concepts.md) - Article touches on Finite State Machines, Statechart formailsm and the Actor model
 
