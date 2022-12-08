@@ -31,8 +31,14 @@ A collection of awesome resources regarding the XState library and Statecharts.
 
 - [Glutnix/xstate-vue-calculator](https://github.com/Glutnix/xstate-vue-calculator) - Calculator
 
+#### React
+
+- [voloshchenkoal/shinkei-suijaku](https://github.com/voloshchenkoal/shinkei-suijaku) - Card game
+- [davidkpiano/xstate-todomvc](https://github.com/davidkpiano/xstate-todomvc) - TodoMVC
+
 ### Articles
-- [▶️ Front-end state management with Xstate - Amy Pellegrini | XConf Europe 2021](https://www.youtube.com/watch?v=Slb6M_rIn0M) 
+
+- [▶️ Front-end state management with Xstate - Amy Pellegrini | XConf Europe 2021](https://www.youtube.com/watch?v=Slb6M_rIn0M)
 - [XState - a TypeScript state machine with a lot of features](http://realfiction.net/2019/01/30/xstate-a-typescript-state-machine-with-a-lot-of-features) by Frank Quednau
 - [Creating a Complex IVR System with Ease with XState](https://www.nexmo.com/blog/2019/06/20/creating-a-complex-ivr-system-with-ease-with-xstate-dr) by Yonatan Mevorach
 - [My love letter to XState and statecharts ♥](https://dev.to/timdeschryver/my-love-letter-to-xstate-and-statecharts-287b) by Tim Deschryver
@@ -220,9 +226,11 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [24 days to learn statecharts #devadvent](https://dev.to/codingdive/introducing-state-machine-advent-24-bite-sized-blog-posts-about-state-machines-and-statecharts-2ce0) - series of 25 blog posts, Statecharts, Typescript
 
 ### Testing
+
 - [Model-Based Testing in React with State Machines](https://css-tricks.com/model-based-testing-in-react-with-state-machines/) - David Khourshid, 2020
 
 ### Guides
+
 - [Extensive examples of XState features with and without React.](https://bradwoods.io/guides/xstate-react) - Brad Woods ( Updated often )
 
 ### Usage & Examples
@@ -231,10 +239,11 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [XState Catalog - A collection of professionally designed state machines](https://xstate-catalogue.com/)
 
 ### Talks
+
 - [David Khourshid - XState: the Visual Future of State Management | Jul 4, 2021](https://www.youtube.com/watch?v=4Mue0Qr_apE) - Youtube, duration, 30:01
 - [David Khourshid - Reactive State Machines and Statecharts | Uphill Conf 2019](https://www.youtube.com/watch?v=GSHQFx7PG20) - Youtube, duration 21:25
 - [David Khourshid - Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/watch?v=RqTxtOXcv8Y) - Youtube, duration 34:27
-- [David Khourshid - Reactive State Machines and Statecharts  - ReactiveConf 2018](https://www.youtube.com/watch?v=DrHccvns-L0) Youtube, duration 28:50
+- [David Khourshid - Reactive State Machines and Statecharts - ReactiveConf 2018](https://www.youtube.com/watch?v=DrHccvns-L0) Youtube, duration 28:50
 - [David Khourshid - Infinitely Better UIs with Finite Automata - ReactRally 2017](https://www.youtube.com/watch?v=VU1NKX6Qkxc) Youtube, duration 25:32
 - [XState - An introduction - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=iDZxjJYMOUQ) Youtube, duration 8:00
 - [XState - Data Loading Service - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=XaHk9vhmus4) Youtube, duration 18:54
@@ -255,6 +264,7 @@ A collection of awesome resources regarding the XState library and Statecharts.
 - [A humble repo to collect knowledge on state machines.](https://github.com/achou11/state-machines) - Andrew Chou
 
 ### Dive deeper into State Machines
+
 - [How I Learned to Stop Worrying and ❤️ the State Machine](http://raganwald.com/2018/02/23/forde.html) - Reginald Braithwaite, 2018
 - [You are managing state? Think twice.](https://krasimirtsonev.com/blog/article/managing-state-in-javascript-with-state-machines-stent) - Krasimir Tsonev, 2017
 - [A composable pattern for pure state machines with effects (draft v3) ](https://gist.github.com/andymatuschak/d5f0a8730ad601bcccae97e8398e25b2) - Andy Matuschak, 2016
