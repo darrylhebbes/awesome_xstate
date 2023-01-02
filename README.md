@@ -240,14 +240,14 @@ A collection of awesome resources regarding the XState library and Statecharts.
 
 ### Talks
 
-- [David Khourshid - Coding Complex App Logic, Visually | Dec 7, 2022](https://www.youtube.com/watch?v=wgWwJSnhgDU) - Youtube, duration, 39:28
-- [David Khourshid - XState: the Visual Future of State Management | Jul 4, 2021](https://www.youtube.com/watch?v=4Mue0Qr_apE) - Youtube, duration, 30:01
-- [David Khourshid - Reactive State Machines and Statecharts | Uphill Conf 2019](https://www.youtube.com/watch?v=GSHQFx7PG20) - Youtube, duration 21:25
-- [David Khourshid - Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/watch?v=RqTxtOXcv8Y) - Youtube, duration 34:27
-- [David Khourshid - Reactive State Machines and Statecharts - ReactiveConf 2018](https://www.youtube.com/watch?v=DrHccvns-L0) Youtube, duration 28:50
-- [David Khourshid - Infinitely Better UIs with Finite Automata - ReactRally 2017](https://www.youtube.com/watch?v=VU1NKX6Qkxc) Youtube, duration 25:32
-- [XState - An introduction - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=iDZxjJYMOUQ) Youtube, duration 8:00
-- [XState - Data Loading Service - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=XaHk9vhmus4) Youtube, duration 18:54
+- [▶️ David Khourshid - Coding Complex App Logic, Visually | Dec 7, 2022](https://www.youtube.com/watch?v=wgWwJSnhgDU) - Youtube, duration, 39:28
+- [▶️ David Khourshid - XState: the Visual Future of State Management | Jul 4, 2021](https://www.youtube.com/watch?v=4Mue0Qr_apE) - Youtube, duration, 30:01
+- [▶️ David Khourshid - Reactive State Machines and Statecharts | Uphill Conf 2019](https://www.youtube.com/watch?v=GSHQFx7PG20) - Youtube, duration 21:25
+- [▶️ David Khourshid - Simplifying Complex UIs with Finite Automata & Statecharts | JSConf Iceland 2018](https://www.youtube.com/watch?v=RqTxtOXcv8Y) - Youtube, duration 34:27
+- [▶️ David Khourshid - Reactive State Machines and Statecharts - ReactiveConf 2018](https://www.youtube.com/watch?v=DrHccvns-L0) Youtube, duration 28:50
+- [▶️ David Khourshid - Infinitely Better UIs with Finite Automata - ReactRally 2017](https://www.youtube.com/watch?v=VU1NKX6Qkxc) Youtube, duration 25:32
+- [▶️ XState - An introduction - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=iDZxjJYMOUQ) Youtube, duration 8:00
+- [▶️ XState - Data Loading Service - Finite State Machines in React - Leigh Halliday](https://www.youtube.com/watch?v=XaHk9vhmus4) Youtube, duration 18:54
 
 ### Tools
 
